@@ -24,5 +24,8 @@
   "homepage": "https://github.com/sk1ppi/npm_hello_world#readme",
   "publishConfig": {
     "@sk1ppi:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
