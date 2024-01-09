@@ -1,0 +1,28 @@
+{
+  "name": "@sk1ppi/npm-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk1ppi/npm_hello_world.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "hello-world"
+  ],
+  "author": "sk1ppi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sk1ppi/npm_hello_world/issues"
+  },
+  "homepage": "https://github.com/sk1ppi/npm_hello_world#readme",
+  "publishConfig": {
+    "@sk1ppi:registry": "https://npm.pkg.github.com"
+  }
+}
